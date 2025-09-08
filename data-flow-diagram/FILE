@@ -1,0 +1,26 @@
+# Airbnb Clone Data Flow Diagram
+
+
+
+## Files
+- `data-flow.png` — visual DFD showing inputs, processes, and outputs.
+- `README.md` — documentation of the diagram.
+
+## Key Processes
+- **Authentication**: User login and registration processes.
+- **Property Management**: CRUD operations for properties, media, pricing.
+- **Booking Process**: Create, confirm, and cancel bookings.
+- **Payment Processing**: Handle payments, refunds, and invoices.
+- **Review System**: Submit and store reviews & ratings.
+- **Notifications**: Sends emails, SMS, and push notifications.
+
+## Data Stores
+- User Database
+- Property Database
+- Booking Database
+- Payment Database
+- Review Database
+
+
+
+
