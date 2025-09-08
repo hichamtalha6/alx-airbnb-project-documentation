@@ -1,0 +1,16 @@
+
+## Files
+- `property_booking_flowchart.png` — visual flowchart of the property booking process.
+- `README.md` — documentation for the flowchart.
+
+## Process Steps
+1. User initiates booking (Start)
+2. Login / authentication
+3. Search and select property
+4. Check availability
+   - If unavailable → Booking failed notification
+   - If available → Enter booking details
+5. Process payment via secure gateway
+   - If payment fails → Booking failed notification
+   - If payment succeeds → Confirm booking and send notifications
+
